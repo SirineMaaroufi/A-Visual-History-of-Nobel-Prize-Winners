@@ -1,6 +1,8 @@
 # A Visual History of Nobel Prize Winners
 
-![Nobel Prize](nobel_prize.jpg)
+<p align="center">
+<img src="nobel_prize.jpeg" alt="drawing" width="400"/>
+</p>
 
 ## Project Description
 
